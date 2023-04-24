@@ -8,13 +8,21 @@ We recommend **Python 3.6** or higher, **[PyTorch 1.6.0](https://pytorch.org/get
 **Install with requestment.txt**
 
 streamlit==0.82.0
+
 streamlit_tags
+
 pyarrow
+
 keytotext
+
 opencv-python-headless
+
 sentence-transformers
+
 rank_bm25
+
 yake
+
 
 **PyTorch with CUDA**
 
