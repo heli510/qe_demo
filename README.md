@@ -36,3 +36,9 @@ If you want to use a GPU / CUDA, you must install PyTorch with the matching CUDA
 2. Run loader.py - For loading pre-computed embeddings
 
 3. Run model_run.py - For start our basic pre-train model and outcome the expansion results.
+
+## Examples Scripts
+
+"query-expansion-demo.ipynb" Colab Version.
+
+
